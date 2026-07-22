@@ -98,3 +98,7 @@ fast-and-fit-analytics/
 ---
 
 *Desarrollado con 💚 para impulsar un estilo de vida saludable y basado en datos.*
+
+---
+
+*Puedes interactuar con el proyecto desplegado en:* [Fast & Fit Analytics](https://streamlit-app-v210726.onrender.com)
