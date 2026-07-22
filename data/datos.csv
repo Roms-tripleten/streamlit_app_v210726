@@ -1,0 +1,41 @@
+usuario_id;fecha_registro;nombre_receta;categoria;tiempo_preparacion_min;calorias_kcal;proteina_g;guardado_favoritos;valoracion_estrellas;suscripcion_premium
+U101;2026-01-05;Avena Nocturna Express;Desayuno;4;280;12.5;TRUE;4.8;TRUE
+U102;2026-01-07;Smoothie Verde Detóx;Bebida/Smoothie;3;150;4.0;FALSE;3.9;FALSE
+U103;2026-01-10;Tostada de Aguacate y Huevo;Desayuno;5;320;14.0;TRUE;4.9;TRUE
+U104;2026-01-12;Yogur Griego con Nueces;Snack;2;210;15.0;TRUE;4.5;FALSE
+U105;2026-01-15;Ensalada Exprés de Atún;Cenas;5;290;26.0;TRUE;4.7;TRUE
+U106;2026-01-18;Manzana con Mantequilla de Maní;Snack;2;190;6.0;FALSE;3.8;FALSE
+U107;2026-01-20;Batido Proteico de Plátano;Bebida/Smoothie;3;260;22.0;TRUE;4.6;TRUE
+U108;2026-01-22;Wrap de Pavo y Hummus;Cenas;4;310;21.0;FALSE;4.1;FALSE
+U109;2026-01-25;Bowl de Chía y Frutos Rojos;Desayuno;4;230;8.5;TRUE;4.4;TRUE
+U110;2026-01-28;Gazpacho Rápido de Pepino;Bebida/Smoothie;3;110;2.0;FALSE;3.5;FALSE
+U111;2026-02-01;Tostada de Ricotta e Higo;Snack;4;240;9.0;TRUE;4.8;TRUE
+U112;2026-02-03;Ceviche Rápido de Garbanzos;Cenas;5;270;11.0;TRUE;4.3;FALSE
+U113;2026-02-05;Smoothie de Proteína, Plátano y Café;Bebida/Smoothie;3;180;18.0;TRUE;4.9;TRUE
+U114;2026-02-08;Huevos Revueltos con Espinaca;Desayuno;4;220;16.0;FALSE;4.0;FALSE
+U115;2026-02-10;Rollitos de Pepino y Salmón;Snack;5;195;14.5;TRUE;4.7;TRUE
+U116;2026-02-12;Ensalada Griega Exprés;Cenas;4;250;7.0;FALSE;3.9;FALSE
+U117;2026-02-15;Pancakes de Avena en Microondas;Desayuno;5;310;13.0;TRUE;4.8;TRUE
+U118;2026-02-18;Edamame al Vapor con Sésamo;Snack;3;160;12.0;FALSE;4.2;FALSE
+U119;2026-02-20;Smoothie Dorado de Cúrcuma;Bebida/Smoothie;3;140;3.0;FALSE;3.7;FALSE
+U120;2026-02-22;Bowl de Quinoa y Aguacate;Cenas;5;340;10.0;TRUE;4.6;TRUE
+U121;2026-02-25;Tostada de Queso Cabaña y Tomate;Snack;3;175;13.0;TRUE;4.4;FALSE
+U122;2026-03-01;Omelette de Claras Express;Desayuno;4;160;20.0;TRUE;4.9;TRUE
+U123;2026-03-03;Ensalada Caprese en Brocheta;Snack;3;200;8.0;FALSE;4.0;FALSE
+U124;2026-03-05;Wrap Vegano de Frijol Negro;Cenas;5;330;12.5;TRUE;4.5;TRUE
+U125;2026-03-08;Batido Verde con Espirulina;Bebida/Smoothie;3;130;5.0;FALSE;3.6;FALSE
+U126;2026-03-10;Avena Fría con Cacao;Desayuno;4;290;11.0;TRUE;4.7;TRUE
+U127;2026-03-12;Hummus Rápido con Zanahoria;Snack;4;210;6.5;FALSE;4.1;FALSE
+U128;2026-03-15;Ensalada de Cuscús y Verduras;Cenas;5;280;8.0;TRUE;4.3;FALSE
+U129;2026-03-18;Smoothie Antioxidante de Frutos Rojos;Bebida/Smoothie;3;165;4.5;TRUE;4.8;TRUE
+U130;2026-03-20;Tostada de Mermelada Sin Azúcar;Desayuno;2;140;3.0;FALSE;3.4;FALSE
+U131;2026-03-22;Tartar Rápido de Atún y Mango;Cenas;5;260;24.0;TRUE;5.0;TRUE
+U132;2026-03-25;Pudín de Chía y Coco;Snack;4;220;5.0;TRUE;4.2;FALSE
+U133;2026-03-28;Smoothie Proteico de Mantequilla de Maní;Bebida/Smoothie;3;310;25.0;TRUE;4.9;TRUE
+U134;2026-04-01;Huevos Pasados por Agua con Espárragos;Desayuno;5;180;12.0;FALSE;4.1;FALSE
+U135;2026-04-03;Rollitos de Jamón de Pavo y Queso;Snack;2;150;16.0;TRUE;4.5;TRUE
+U136;2026-04-05;Ensalada Exprés de Lentejas;Cenas;5;295;15.0;FALSE;4.0;FALSE
+U137;2026-04-08;Infusión Fría de Menta y Limón;Bebida/Smoothie;2;25;0.5;FALSE;3.8;FALSE
+U138;2026-04-10;Bowl de Yuca y Huevo Poché;Desayuno;5;350;11.5;TRUE;4.6;TRUE
+U139;2026-04-12;Bocado de Requesón y Miel;Snack;2;160;10.0;FALSE;4.2;FALSE
+U140;2026-04-15;Ensalada de Espinaca, Fresas y Nuez;Cenas;4;230;6.0;TRUE;4.7;TRUE
